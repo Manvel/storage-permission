@@ -1,0 +1,10 @@
+{
+   "chrome_extension_name": {
+      "description": "Extension name",
+      "message": "Test extension for permissions"
+   },
+   "chrome_extension_description": {
+      "description": "Extension description",
+      "message": "Testing if adding storage permission causese the extension to be disabled"
+   }
+}
