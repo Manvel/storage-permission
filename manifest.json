@@ -17,6 +17,6 @@
       "48": "images/icon/48x48.png",
       "16": "images/icon/16x16.png"
    },
-   "permissions": [ "cookies", "http://*/*", "https://*/*", "contextMenus", "tabs"],
-   "version": "0.1"
+   "permissions": [ "cookies", "http://*/*", "https://*/*", "contextMenus", "tabs", "storage"],
+   "version": "0.2"
 }
